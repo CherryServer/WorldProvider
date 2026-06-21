@@ -7,7 +7,7 @@
 ```txt
 World provider for Cherry
 
-Main idea: realize roge-like dangeon system
+Main idea: realize roge-like dungeon system
 ```
 
 ---
